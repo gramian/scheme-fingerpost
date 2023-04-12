@@ -56,6 +56,7 @@
 * [Gambit](http://gambitscheme.org) - R4RS, R5RS
 * [Gauche](https://practical-scheme.net/gauche/) - R7RS
 * [Gerbil](https://cons.io/) - R5RS, ?
+* [Gleam](https://github.com/googlielmo/gleam) - R5RS - Java
 * [GoLisp](https://techblog.steelseries.com/golisp) - 
 * [Guile](https://www.gnu.org/software/guile/) R5RS, R6RS
 * [Heist](https://github.com/jcoglan/heist/tree/master) - R5RS
