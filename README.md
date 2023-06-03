@@ -52,7 +52,7 @@
 * [Foment](https://github.com/leftmike/foment) - R7RS
 * [fools]() - R3RS?
 * [fscheme](https://genepi.qimr.edu.au/Staff/davidD/Scheme/SIOM.html) - R4RS, R5RS
-* [Galapagos](https://www.cs.bgu.ac.il/~elad/GALAPAGOS/) - ? 
+* [Galapagos](https://web.archive.org/web/20220312053326/https://www.cs.bgu.ac.il/~elad/GALAPAGOS/) - ? 
 * [Gambit](http://gambitscheme.org) - R4RS, R5RS
 * [Gauche](https://practical-scheme.net/gauche/) - R7RS
 * [Gerbil](https://cons.io/) - R5RS, ?
@@ -60,7 +60,7 @@
 * [GoLisp](https://techblog.steelseries.com/golisp) - 
 * [Guile](https://www.gnu.org/software/guile/) R5RS, R6RS
 * [Heist](https://github.com/jcoglan/heist/tree/master) - R5RS
-* [Hobbit]() - R4RS
+* [Hobbit](https://people.csail.mit.edu/jaffer/hobbit/Introduction.html) - R4RS
 * [HotScheme](https://web.archive.org/web/20060427142914/http://www.stgtech.com/HotScheme/) - 
 * [HScheme](http://hscheme.sourceforge.net/) - R5RS
 * [Husk Scheme](https://github.com/justinethier/husk-scheme) - R5RS, R7RS
@@ -68,7 +68,7 @@
 * [Ikarus](http://ikarus-scheme.org/) - R6RS
 * [IronScheme](https://github.com/IronScheme/IronScheme) - R6RS
 * [Jaja](https://pages.lip6.fr/Christian.Queinnec/Java/Jaja.html) - R4RS - Java
-* [jakld]() - ?
+* [jakld](http://www.yuasa.kuis.kyoto-u.ac.jp/~yuasa/jakld/index.html) - ?
 * [JScheme](http://jscheme.sourceforge.net/jscheme/main.html) - R4RS
 * [Kali Scheme](http://community.schemewiki.org/cgi-bin/scheme.cgi?kali-scheme-revival) - R4RS
 * [Kawa](https://www.gnu.org/software/kawa/) - R7RS
@@ -92,10 +92,11 @@
 * [Oaklisp](https://github.com/barak/oaklisp) - ?
 * [Ocs](https://web.archive.org/web/20120506183728/http://will.iki.fi:80/software/ocs/) - R5RS
 * [OpenScheme](http://openscheme.free.fr/) - R4RS, R5RS
-* [OScheme]() - R4RS
+* [OScheme](https://web.archive.org/web/20080617013224/http://koala.ilog.fr/abaird/oscheme/oscheme.html) - R4RS
 * [Otus Lisp](https://yuriy-chumak.github.io/ol/) - R7RS
 * [Owl Lisp](https://gitlab.com/owl-lisp/owl) - R7RS
 *  [PC Scheme]() - 
+*  [PHPScheme](https://web.archive.org/web/20041205182325/http://www.geocities.com:80/markoriedelde/scheme/) - Special
 * [picrin](https://github.com/picrin-scheme/picrin) - R7RS
 *  [Pixie Scheme](http://jayreynoldsfreeman.com/My/Pixie_Scheme_III.html) - R5RS
 * [PS3I](https://pages.lip6.fr/Christian.Queinnec/VideoC/ps3i.html) - R4RS - Java
@@ -134,6 +135,7 @@
 * [softscheme](https://github.com/nuprl/softscheme) - R4RS
 * [Spark Scheme](https://web.archive.org/web/20091011175820/http://spark-scheme.wikispot.org/Home)
 * [Stalin](http://engineering.purdue.edu/~qobi/software) - R4RS
+* [Stk](https://web.archive.org/web/20160731212652/http://kaolin.essi.fr/STk/) - R4RS
 * [STklos](http://www.stklos.net/) - R5RS, R7RS
 * [SXM](http://www.malgil.com/sxm/) - IEEE, R5RS
 * [Tachy](https://web.archive.org/web/20091219163603/http://www.kenrawlings.com/pages/Tachy) - ?
