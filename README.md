@@ -95,7 +95,7 @@
 * [OScheme](https://web.archive.org/web/20080617013224/http://koala.ilog.fr/abaird/oscheme/oscheme.html) - R4RS
 * [Otus Lisp](https://yuriy-chumak.github.io/ol/) - R7RS
 * [Owl Lisp](https://gitlab.com/owl-lisp/owl) - R7RS
-*  [PC Scheme]() - 
+*  [PC Scheme]() - R3RS
 *  [PHPScheme](https://web.archive.org/web/20041205182325/http://www.geocities.com:80/markoriedelde/scheme/) - Special
 * [picrin](https://github.com/picrin-scheme/picrin) - R7RS
 *  [Pixie Scheme](http://jayreynoldsfreeman.com/My/Pixie_Scheme_III.html) - R5RS
