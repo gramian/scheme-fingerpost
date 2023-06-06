@@ -21,12 +21,14 @@
     * [SRFI-160](https://srfi.schemers.org/srfi-160/) - Homogeneous numeric vector libraries
   * [SRFI-9](https://srfi.schemers.org/srfi-9/srfi-9.html) - Defining Record Types
   * [SRFI-16](https://srfi.schemers.org/srfi-16/srfi-16.html) - Syntax for procedures of variable arity
+  * [SRFI-30](https://srfi.schemers.org/srfi-30/srfi-30.html) - Nested Multi-line comments
   * [SRFI-39](https://srfi.schemers.org/srfi-39/srfi-39.html) - Parameter objects
   * Vectors
     * [SRFI-43](https://srfi.schemers.org/srfi-43/srfi-43.html) - Vector Library
     * [SRFI-133](https://srfi.schemers.org/srfi-133/) - Vector Library (R7RS Compatible)
   * [SRFI-144](https://srfi.schemers.org/srfi-144/srfi-144.html) - Flonums
   * [SRFI-212](https://srfi.schemers.org/srfi-212/srfi-212.html) - Aliases
+  * [SRFI-233](https://srfi.schemers.org/srfi-233/srfi-233.html) - INI files
 
 ## Implementations
 
@@ -192,6 +194,7 @@
 * [SCMutils](https://groups.csail.mit.edu/mac/users/gjs/6946/)
 * [QobiScheme](https://github.com/NUIM-BCL/QobiScheme)
 * [scheme-power-tools](https://github.com/mpacula/Scheme-Power-Tools)
+* [thunderchez](https://github.com/ovenpasta/thunderchez)
 
 ## Package Managers
 
@@ -203,7 +206,7 @@
 
 * [Scsh](https://scsh.net/) - Scheme Shell
 * [scwm](http://scwm.sourceforge.net/) - Scheme Constraints Window Manager
-* [Menus for Scheme](https://t.co/hGb4BRcIB8?amp=1)
+* [Menus for Scheme](https://ia800807.us.archive.org/view_archive.php?archive=/23/items/programmers-companion-for-ms-dos/PROGRAMMERS.iso&file=MISC%2FMENUSPCS.ZIP)
 
 ## Scripting
 
@@ -219,7 +222,10 @@
 * [vs Benchmark](http://www.iro.umontreal.ca/~gambit/bench.html)
 * [R7RS Benchmarks](https://ecraven.github.io/r7rs-benchmarks/)
 * [Larceny Benchmarks](http://www.larcenists.org/benchmarksAboutR6.html) 
-* [Inlab Benchmark](https://scheme.inlab.net/reference-manual/expressions-and-procedures/benchmark/)
+* [Tak](https://en.wikipedia.org/wiki/Tak_(function))
+    * J. McCarthy: "[An Interesting Lisp Function](https://dl.acm.org/doi/pdf/10.1145/1411829.1411833)", LISP Bulletin #3, 1979.
+    * "[Testing the Tak](https://archive.org/details/AcornUser052-Nov86/page/n198/mode/1up)", Acorn User 52, 1986.
+    * [Inlab Benchmark](https://scheme.inlab.net/reference-manual/expressions-and-procedures/benchmark/)
 
 ## Tutorials
 
