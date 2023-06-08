@@ -241,6 +241,9 @@
 * [Scheme for Lispers](https://web.archive.org/web/20200219023115/http://wry.me:80/~darius/writings/scheme-for-lispers.html)
 * [How to Use Scheme](https://htus.org)
 * [Scheme.rs](https://scheme.rs)
+* [A Scheme Crash Course](https://guix.gnu.org/en/cookbook/en/html_node/A-Scheme-Crash-Course.html)
+* [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
+* [Scheme at a Glance](http://www.troubleshooters.com/codecorn/scheme_guile/hello.htm)
 
 ### Interpreter / Compiler / Transpiler
 
