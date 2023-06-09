@@ -266,6 +266,8 @@
 * M. Watson: [Programming in SCHEME](https://doi.org/10.1007/978-1-4612-2394-8); Springer, 1996.
 * I. Ferguson, E. Martin, B. Kaufman: "The Schemer's Guide"; Schemer's Inc., 1997.
 * R.G. Hull: "PC Scheme Minimanual"; McGraw Hill Higher Education, 1997.
+* O. Grillmeyer: [Exploring Computer Science with Scheme](https://doi.org/10.1007/978-1-4757-2937-5); Springer, 1998.
+* J. Pearce: [Programming and Meta-Programming in Scheme](https://doi.org/10.1007/978-1-4612-1682-7); Springer, 1998.
 * B. Harvey, M. Wright: [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html); MIT Press, 1999.
 * R.K. Dybvig: [The Scheme Programming Language](https://www.scheme.com/tspl4/); MIT Press, 2009.
 * N.M. Holm: [Sketchy Scheme](https://www.lulu.com/en/en/shop/nils-m-holm/sketchy-scheme/paperback/product-1wzg77wn.html); Lulu Press, 2011.
@@ -280,14 +282,14 @@
 
 ## Magazine Articles
 
-* W.G. Wong: [PC Scheme: A Lexical LISP](); Byte Magazine, 3: 223--226, 1987,
-* H. Abelson, G.J. Sussman: [Lisp: A Language for Stratified Design](), Byte Magazine, 2: 207--218, 1988.
-* W. Clinger: [Semantics of Scheme](); Byte Magazine, 2: 221--227, 1988.
-* D.S. Touretzky: [How Lisp Has Changed](); Byte Magazine, 2: 229--234, 1988.
+* W.G. Wong: [PC Scheme: A Lexical LISP](https://vintageapple.org/byte/pdf/198703_Byte_Magazine_Vol_12-03_Educational_Computing.pdf#page=233); Byte Magazine, 3: 223--226, 1987,
+* H. Abelson, G.J. Sussman: [Lisp: A Language for Stratified Design](https://vintageapple.org/byte/pdf/198802_Byte_Magazine_Vol_13-02_14_Multiscan_Monitors_-_LISP.pdf#page=232), Byte Magazine, 2: 207--218, 1988.
+* W. Clinger: [Semantics of Scheme](https://vintageapple.org/byte/pdf/198802_Byte_Magazine_Vol_13-02_14_Multiscan_Monitors_-_LISP.pdf#page=247); Byte Magazine, 2: 221--227, 1988.
+* D.S. Touretzky: [How Lisp Has Changed](https://vintageapple.org/byte/pdf/198802_Byte_Magazine_Vol_13-02_14_Multiscan_Monitors_-_LISP.pdf#page=247); Byte Magazine, 2: 229--234, 1988.
 * A. Berlin: [Compiling Scientific Code Using Partial Evaluations](); IEEE Computer, 12: 25--36, 1990.
 * M. Branscombe: [Learning to Lisp](https://archive.org/details/NH2021_New_Computer_Express_Issue123.pdf/page/53/mode/2up), New Computer Express 123: 53, 1991.
-* D. Appleby: [Lisp](); Byte Magazine, 11: 165--168, 1991.
-* E. Gat: [Lisp as an Alternative to Java](); ACM Intelligence: 21--24, 2000.
+* D. Appleby: [Lisp](https://archive.org/details/eu_BYTE-1991-11_OCR/page/n259/mode/2up); Byte Magazine, 11: 165--168, 1991.
+* E. Gat: [Lisp as an Alternative to Java](https://doi.org/10.1145/355137.355142); ACM Intelligence: 21--24, 2000.
 * R. Sanders: [Languages](https://www.linuxjournal.com/article/2879); Linux Journal, 1995. (aka [Introducing Scheme](https://dl.acm.org/doi/10.5555/324785.324789))
 
 ## Blog Articles
