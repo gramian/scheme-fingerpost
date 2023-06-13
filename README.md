@@ -3,15 +3,15 @@
 ## Standards
 
 * [SCHEME: An Interpreter for Extended Lambda Calculus](http://hdl.handle.net/1721.1/5794) -- **The** Scheme paper
-* [Revised Scheme Report](http://hdl.handle.net/1721.1/6424) -- R1RS
-* [Revised^2 Scheme Report](https://hdl.handle.net/1721.1/5600) -- R2SR
-* [Revised^3 Scheme Report](https://doi.org/10.1145/15042.15043) -- R3SR
+* [Revised Report on (the Algorithmic Language) Scheme](http://hdl.handle.net/1721.1/6424) -- R1RS
+* [Revised^2 Report on (the Algorithmic Language) Scheme](https://hdl.handle.net/1721.1/5600) -- R2RS
+* [Revised^3 Report on (the Algorithmic Language) Scheme](https://doi.org/10.1145/15042.15043) -- R3RS
 * [IEEE/ANSI Scheme Standard](https://doi.org/10.1109/IEEESTD.1991.101032)
-* [Revised^4 Scheme Report](https://doi.org/10.1145/382130.382133) -- R4SR
-* [Revised^5 Scheme Report](https://doi.org/10.1145/290229.290234) -- R5SR
-* [Extended Revised^5 Scheme Report](https://web.archive.org/web/20131225021348/http://scheme-punks.org/wiki/index.php?title=ERR5RS:Charter) -- ERR5RS (See also [ERR5RS SRFIs](https://srfi.schemers.org/?q=err5rs))
-* [Revised^6 Scheme Report](https://r6sr.org) -- R6SR
-* [Revised^7 Scheme Report](https://r7sr.org) -- R7SR
+* [Revised^4 Report on (the Algorithmic Language) Scheme](https://doi.org/10.1145/382130.382133) -- R4RS
+* [Revised^5 Report on (the Algorithmic Language) Scheme](https://doi.org/10.1145/290229.290234) -- R5RS
+* [Extended Revised^5 Report on (the Algorithmic Language) Scheme](https://web.archive.org/web/20131225021348/http://scheme-punks.org/wiki/index.php?title=ERR5RS:Charter) -- ERR5RS (See also [ERR5RS SRFIs](https://srfi.schemers.org/?q=err5rs))
+* [Revised^6 Report on (the Algorithmic Language) Scheme](https://r6sr.org) -- R6RS
+* [Revised^7 Report on (the Algorithmic Language) Scheme](https://r7sr.org) -- R7RS
 
 * [Scheme Requests for Implementation](https://srfi.schemers.org) -- SRFI
   * [SRFI-0](https://srfi.schemers.org/srfi-0/srfi-0.html) - Feature-based conditional expansion construct
