@@ -309,6 +309,11 @@
 * [More Magic](https://www.more-magic.net/archive.html)
 * [Erkin](https://erkin.party)
 
+## Podcasts
+
+* [Functional Geekery Episode 48 – Matthias Felleisen](https://www.functionalgeekery.com/episode-48-matthias-felleisen/)
+* [Functional Geekery Episode 95 – Dan Friedman](https://www.functionalgeekery.com/episode-95-dan-friedman/)
+
 ## Conferences
 
 * [Scheme and Functional Programming Workshop](http://www.schemeworkshop.org/)
@@ -319,10 +324,15 @@
 * F. Winkelmann: [Scheme Implementation Techniques](https://www.youtube.com/watch?v=VZp1wWivFYc) - FROSCON 2013
 * A. Balaam: [Scheme Lisp: Feel the Cool](https://www.youtube.com/watch?v=tA1clbGDczI) - ACCU2018
 * F. Montanari: [Scheme for scientific computing](https://www.youtube.com/watch?v=KWFfqQLjL_w) - Scheme 2020
+* P. Schwarz: [The Functional Programming Triad of Map, Filter and Fold](https://speakerdeck.com/philipschwarz/the-functional-programming-triad-of-map-filter-and-fold)
 
 ## Stackexchange
 
 * [What's the proper scheme file extension?](https://stackoverflow.com/questions/36240629/whats-the-proper-scheme-file-extension)
+
+## Code Snippets
+
+* [F#'s pipe operator for racket](https://gist.github.com/fbanados/d6e0134ff226abe71984a2221bbc7234) - Should work for CHICKEN Scheme too
 
 ## Miscellaneous
 
