@@ -321,6 +321,7 @@
 
 ## Talks & Presentations
 
+* F. Winkelmann: [Chicken](https://www.youtube.com/watch?v=M9Rl0gaHllw) - FOSDEM 2011
 * F. Winkelmann: [Scheme Implementation Techniques](https://www.youtube.com/watch?v=VZp1wWivFYc) - FROSCON 2013
 * A. Balaam: [Scheme Lisp: Feel the Cool](https://www.youtube.com/watch?v=tA1clbGDczI) - ACCU2018
 * F. Montanari: [Scheme for scientific computing](https://www.youtube.com/watch?v=KWFfqQLjL_w) - Scheme 2020
