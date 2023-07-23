@@ -338,6 +338,7 @@
 ## Miscellaneous
 
 * [schemers.org](https://schemers.org/)
+* [Scheme Conservatory](https://conservatory.scheme.org/)
 * [Community Scheme Wiki](http://community.schemewiki.org/)
 * [Bibliography of Scheme-related Research](https://web.archive.org/web/20180525093323/http://library.readscheme.org/)
 * [Scheme family](http://www.softwarepreservation.org/projects/LISP/scheme_family/)
