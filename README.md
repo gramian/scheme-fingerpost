@@ -2,7 +2,7 @@
 
 ## Standards
 
-* [SCHEME: An Interpreter for Extended Lambda Calculus](http://hdl.handle.net/1721.1/5794) -- **The** Scheme paper
+* [SCHEME: An Interpreter for Extended Lambda Calculus](http://hdl.handle.net/1721.1/5794) -- **The** Scheme paper (R0RS)
 * [Revised Report on (the Algorithmic Language) Scheme](http://hdl.handle.net/1721.1/6424) -- R1RS
 * [Revised^2 Report on (the Algorithmic Language) Scheme](https://hdl.handle.net/1721.1/5600) -- R2RS
 * [Revised^3 Report on (the Algorithmic Language) Scheme](https://doi.org/10.1145/15042.15043) -- R3RS
