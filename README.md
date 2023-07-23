@@ -11,7 +11,7 @@
 * [Revised^5 Report on (the Algorithmic Language) Scheme](https://doi.org/10.1145/290229.290234) -- R5RS
 * [Extended Revised^5 Report on (the Algorithmic Language) Scheme](https://web.archive.org/web/20131225021348/http://scheme-punks.org/wiki/index.php?title=ERR5RS:Charter) -- ERR5RS (See also [ERR5RS SRFIs](https://srfi.schemers.org/?q=err5rs))
 * [Revised^6 Report on (the Algorithmic Language) Scheme](https://r6sr.org) -- R6RS
-* [Revised^7 Report on (the Algorithmic Language) Scheme](https://r7sr.org) -- R7RS
+* [Revised^7 Report on (the Algorithmic Language) Scheme](https://small.r7rs.org) -- R7RS (Small)
 
 * [Scheme Requests for Implementation](https://srfi.schemers.org) -- SRFI
   * [SRFI-0](https://srfi.schemers.org/srfi-0/srfi-0.html) - Feature-based conditional expansion construct
