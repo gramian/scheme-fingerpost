@@ -97,7 +97,7 @@
 * [OScheme](https://web.archive.org/web/20080617013224/http://koala.ilog.fr/abaird/oscheme/oscheme.html) - R4RS
 * [Otus Lisp](https://yuriy-chumak.github.io/ol/) - R7RS
 * [Owl Lisp](https://gitlab.com/owl-lisp/owl) - R7RS
-*  [PC Scheme]() - R3RS
+*  [PC Scheme](https://misc.lassi.io/2020/pc-scheme/extracted/pcs303.zip) - R3RS
 *  [PHPScheme](https://web.archive.org/web/20041205182325/http://www.geocities.com:80/markoriedelde/scheme/) - Special
 * [picrin](https://github.com/picrin-scheme/picrin) - R7RS
 *  [Pixie Scheme](http://jayreynoldsfreeman.com/My/Pixie_Scheme_III.html) - R5RS
@@ -185,8 +185,13 @@
 * [Cautionary tales from a programmer](https://www.more-magic.net/archive.html)
 * [The pomodoro technique done the chicken way](http://pestilenz.org/~ckeen/blog/posts/pomodoro.html)
 
+* [Marco's Website | Scheme language projects](http://marcomaggi.github.io/chicken.html)
+* [Setting up a basic Scheme programming Environment](https://medium.com/@yvanscher/basic-environment-for-scheme-programming-c97a6ef88c09)
 * [CHICKEN Scheme Tutorials](http://wiki.call-cc.org/tutorials)
 * [CHICKEN Scheme Included Modules](http://wiki.call-cc.org/man/5/Included%20modules)
+* [I played with CHICKEN Scheme, Docker and Alpine Linux](https://www.dbrunner.de/blog/2015/12/19/i-played-with-chicken-scheme-docker-and-alpine-linux/)
+* [Implementing a Simple REST API with Scheme and Chickadee](https://medium.com/@metacirculardispatches/implementing-a-simple-rest-api-with-scheme-and-chickadee-2776c45cdb70)
+* [Building a Powerful Web Application with Scheme: Exploring the Capabilities of Chicken Scheme’s Web Framework](https://medium.com/@metacirculardispatches/building-a-powerful-web-application-with-scheme-exploring-the-capabilities-of-chicken-schemes-web-376f62f21d64)
 
 ## Libraries
 
@@ -303,6 +308,7 @@
 * [In the SCHEME of things](https://pcgamingtips.blogspot.com/2010/04/in-scheme-of-things.html)
 * [Lisp Problems](http://xahlee.info/UnixResource_dir/writ/lisp_problems.html)
 * [Computer Languages A to Z: Guile](https://pclosmag.com/html/Issues/201001/page06.html)
+* [Scheme-ing](https://taoofmac.com/space/blog/2019/06/20/2310)
 
 ## Blogs
 
