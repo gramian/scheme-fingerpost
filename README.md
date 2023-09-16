@@ -190,8 +190,6 @@
 * [CHICKEN Scheme Tutorials](http://wiki.call-cc.org/tutorials)
 * [CHICKEN Scheme Included Modules](http://wiki.call-cc.org/man/5/Included%20modules)
 * [I played with CHICKEN Scheme, Docker and Alpine Linux](https://www.dbrunner.de/blog/2015/12/19/i-played-with-chicken-scheme-docker-and-alpine-linux/)
-* [Implementing a Simple REST API with Scheme and Chickadee](https://medium.com/@metacirculardispatches/implementing-a-simple-rest-api-with-scheme-and-chickadee-2776c45cdb70)
-* [Building a Powerful Web Application with Scheme: Exploring the Capabilities of Chicken Scheme’s Web Framework](https://medium.com/@metacirculardispatches/building-a-powerful-web-application-with-scheme-exploring-the-capabilities-of-chicken-schemes-web-376f62f21d64)
 
 ## Libraries
 
