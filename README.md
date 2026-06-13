@@ -1,5 +1,10 @@
 # Scheme Fingerpost (:computer:)
 
+## Lanugage
+
+* [Scheme](https://www.scheme.org) - Scheme Language Home
+* [Scheme (Programming Language)](https://en.wikipedia.org/wiki/Scheme_(programming_language)) - Scheme Wikipedia article
+
 ## Standards
 
 * [SCHEME: An Interpreter for Extended Lambda Calculus](http://hdl.handle.net/1721.1/5794) -- **The** Scheme paper (R0RS)
@@ -141,6 +146,7 @@
 * [STklos](http://www.stklos.net/) - R5RS, R7RS
 * [SXM](http://www.malgil.com/sxm/) - IEEE, R5RS
 * [Tachy](https://web.archive.org/web/20091219163603/http://www.kenrawlings.com/pages/Tachy) - ?
+* [Tiny Lisp](https://github.com/Robert-van-Engelen/tinylisp) - ?
 * [TinyScheme](http://tinyscheme.sourceforge.net/home.html) - R5RS
 * [tr7](https://gitlab.com/jobol/tr7) - R7RS
 * [UCB Scheme](https://www-inst.eecs.berkeley.edu//~scheme/) - R4RS
@@ -210,6 +216,7 @@
 * [Scsh](https://scsh.net/) - Scheme Shell
 * [scwm](http://scwm.sourceforge.net/) - Scheme Constraints Window Manager
 * [Menus for Scheme](https://ia800807.us.archive.org/view_archive.php?archive=/23/items/programmers-companion-for-ms-dos/PROGRAMMERS.iso&file=MISC%2FMENUSPCS.ZIP)
+* [S-Expressions](https://web.archive.org/web/20251011064346/https://www.s-expressions.org/home) - S-Expressions as serialization format
 
 ## Scripting
 
