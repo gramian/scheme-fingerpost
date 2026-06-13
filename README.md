@@ -314,6 +314,8 @@
 * [Lisp Problems](http://xahlee.info/UnixResource_dir/writ/lisp_problems.html)
 * [Computer Languages A to Z: Guile](https://pclosmag.com/html/Issues/201001/page06.html)
 * [Scheme-ing](https://taoofmac.com/space/blog/2019/06/20/2310)
+* P. Norvig: [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html) (Lis.py Part 1)
+* P. Norvig: [(An ((Even Better) Lisp) Interpreter (in Python))](https://norvig.com/lispy2.html) (Lis.py Part 2)
 
 ## Blogs
 
@@ -362,3 +364,4 @@
 * [Community-Scheme-Wiki](http://community.schemewiki.org)
 * [The Scheme Programming Language](https://www.staging.scheme.org)
 * [Scheme Cross Reference](https://practical-scheme.net/wiliki/schemexref.cgi)
+* [Is it possible to create a circular data structure in Scheme without mutation?](https://stackoverflow.com/questions/49602270/is-it-possible-to-create-a-circular-data-structure-in-scheme-without-mutation)
