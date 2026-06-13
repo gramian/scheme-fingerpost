@@ -1,4 +1,4 @@
-# Scheme Fingerpost (:computer:)
+# Scheme Fingerpost (🖥️)
 
 ## Lanugage
 
